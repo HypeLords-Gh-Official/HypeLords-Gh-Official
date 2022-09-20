@@ -2,7 +2,7 @@
 - 👀 I’m interested in development 
 - 🌱 I’m currently learning laravel and electron js
 - 💞️ I’m looking to collaborate on development with developers 
-- 📫 How to reach me whatsapp only +233 57 888 8044
+- 📫 How to reach me whatsapp only +233507409695
 
 <!---
 HypeLords-Gh-Official/HypeLords-Gh-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
