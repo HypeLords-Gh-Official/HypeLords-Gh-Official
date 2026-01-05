@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HypeLords Gh Official
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning laravel and electron js
-- 💞️ I’m looking to collaborate on development with developers 
-- 📫 How to reach me whatsapp only +233507409695
+- 👋 Hi, I’m Akoto Twumasi Michael
+- 👀 I’m a Web Designer & Developer, Photographer, Videographer, Creative Designer, SEO Analyst
+- 💞️ I’m looking to collaborate on projects with Designers & Developers 
+- 📫 How to reach me WhatsApp only +233554878901
+- Visit my website - http://hypelordsgh.tech/
 
 <!---
 HypeLords-Gh-Official/HypeLords-Gh-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
